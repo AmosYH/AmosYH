@@ -1,15 +1,11 @@
 <h1 align="center">Hi 👋, I'm Amos</h1>
-<h3 align="center">A Front-end & Back-end Developer from Hong Kong</h3>
+<h3 align="center">A Computer Science Undergraduate from Hong Kong</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amosyh&label=Profile%20views&color=fff700&style=plastic" alt="amosyh" /> </p>
 
-- 🔭 I’m currently working on **Corporate Website System**
-
-- 🌱 I’m currently learning **Computer Vision**
+- 🌱 I’m currently learning **Computer Vision** and **Fintech**
 
 - 💬 Ask me about **Web Development in Java**
-
-- 📫 How to reach me **haru.ki0kazu.ya@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
