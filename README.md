@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **Computer Vision** and **Fintech**
 
-- 💬 Ask me about **Web Development in Java**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/amos-wang" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amos-wang" height="30" width="40" /></a>
